@@ -6,16 +6,19 @@
 
     <title>Membuka Aplikasi...</title>
 
-    <script>
-        window.location.replace(
-            "https://script.google.com/macros/s/AKfycbwEjwK66G3gf_8pgQbUWXbfpmJngJK9djn0BEmfctwFOS2p1N19W91SFu3sVjCBsJ6_/exec"
-        );
-    </script>
+    <meta
+        http-equiv="refresh"
+        content="0; url=https://script.google.com/macros/s/AKfycbwEjwK66G3gf_8pgQbUWXbfpmJngJK9djn0BEmfctwFOS2p1N19W91SFu3sVjCBsJ6_/exec"
+    >
 </head>
 
 <body>
 
-    <p>Mohon tunggu, aplikasi sedang dibuka...</p>
+<script>
+    window.location.replace(
+        "https://script.google.com/macros/s/AKfycbwEjwK66G3gf_8pgQbUWXbfpmJngJK9djn0BEmfctwFOS2p1N19W91SFu3sVjCBsJ6_/exec"
+    );
+</script>
 
 </body>
 </html>
